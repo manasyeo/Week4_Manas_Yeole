@@ -1,0 +1,1 @@
+{"version":3,"file":"orgService.js","sourceRoot":"","sources":["../../src/service/orgService.ts"],"names":[],"mappings":";;;AAAA,qDAAkE;AAElE,MAAa,UAAU;IAEZ,KAAK,CAAC,WAAW,CAAC,IAAmB;QACxC,MAAM,YAAY,GAAG,MAAM,yBAAY,CAAC,MAAM,CAAC,IAAI,CAAC,CAAC;QACrD,OAAO,YAAY,CAAC;IACxB,CAAC;CACJ;AAND,gCAMC"}
